@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "raider.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1006,
+				"h": 509
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "Jump.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 38,
+						"w": 952,
+						"h": 90
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 952,
+						"h": 90
+					}
+				},
+				{
+					"filename": "Run.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 61,
+						"w": 926,
+						"h": 67
+					},
+					"frame": {
+						"x": 1,
+						"y": 93,
+						"w": 926,
+						"h": 67
+					}
+				},
+				{
+					"filename": "Walk.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 896,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 60,
+						"w": 808,
+						"h": 68
+					},
+					"frame": {
+						"x": 1,
+						"y": 162,
+						"w": 808,
+						"h": 68
+					}
+				},
+				{
+					"filename": "Hurt.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 63,
+						"w": 161,
+						"h": 65
+					},
+					"frame": {
+						"x": 811,
+						"y": 162,
+						"w": 161,
+						"h": 65
+					}
+				},
+				{
+					"filename": "Idle.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 768,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 62,
+						"w": 672,
+						"h": 66
+					},
+					"frame": {
+						"x": 1,
+						"y": 232,
+						"w": 672,
+						"h": 66
+					}
+				},
+				{
+					"filename": "Attack_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 640,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 58,
+						"w": 548,
+						"h": 70
+					},
+					"frame": {
+						"x": 1,
+						"y": 300,
+						"w": 548,
+						"h": 70
+					}
+				},
+				{
+					"filename": "Attack_3.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 54,
+						"w": 454,
+						"h": 74
+					},
+					"frame": {
+						"x": 551,
+						"y": 300,
+						"w": 454,
+						"h": 74
+					}
+				},
+				{
+					"filename": "Attack_1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 640,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 60,
+						"w": 545,
+						"h": 68
+					},
+					"frame": {
+						"x": 1,
+						"y": 372,
+						"w": 545,
+						"h": 68
+					}
+				},
+				{
+					"filename": "Idle_2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 640,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 62,
+						"w": 552,
+						"h": 66
+					},
+					"frame": {
+						"x": 1,
+						"y": 442,
+						"w": 552,
+						"h": 66
+					}
+				},
+				{
+					"filename": "Dead.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 512,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 66,
+						"w": 452,
+						"h": 62
+					},
+					"frame": {
+						"x": 548,
+						"y": 376,
+						"w": 452,
+						"h": 62
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9b20e607b010fdf6720262c818142a72:30748bc1c2fcd8ad4bf96e879e41f116:a1f8a0cba7737f7be890f4f3fa61f294$"
+	}
+}

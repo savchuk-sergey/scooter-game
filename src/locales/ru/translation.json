@@ -1,0 +1,9 @@
+{
+    "welcome": "Привет\n{{first_name}}!",
+    "start_game": "Начать игру",
+    "last_score": "Последний счет: {{score}}",
+    "score": "Счёт: {{score}}",
+    "energy": "Энергия: {{energy}} / {{maxEnergy}}",
+    "health": "Здоровье: {{health}}",
+    "game_over": "Игра Окончена!"
+}

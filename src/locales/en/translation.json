@@ -1,0 +1,9 @@
+{
+    "welcome": "Welcome\n{{first_name}}!",
+    "start_game": "Start Game",
+    "last_score": "Last Score: {{score}}",
+    "score": "Score: {{score}}",
+    "energy": "Energy: {{energy}} / {{maxEnergy}}",
+    "health": "Health: {{health}}",
+    "game_over": "Game Over!"
+}
