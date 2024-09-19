@@ -28,6 +28,7 @@
         "@reduxjs/toolkit": "^2.2.6",
         "@twa-dev/sdk": "^7.10.1",
         "@types/react-redux": "^7.1.33",
+        "@vitejs/plugin-basic-ssl": "^1.1.0",
         "axios": "^1.7.7",
         "eruda": "^3.3.0",
         "i18next": "^23.15.1",

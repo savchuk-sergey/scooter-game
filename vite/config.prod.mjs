@@ -1,4 +1,5 @@
 import { defineConfig } from "vite";
+import basicSsl from "@vitejs/plugin-basic-ssl";
 import react from "@vitejs/plugin-react";
 
 const phasermsg = () => {
@@ -20,12 +21,13 @@ const phasermsg = () => {
 
 export default defineConfig({
     base: "./",
-    plugins: [react(), phasermsg()],
+    plugins: [react(), phasermsg(), basicSsl()],
     optimizeDeps: {
         exclude: ["i18next"],
     },
     logLevel: "warning",
     build: {
+        outDir: "./docs",
         rollupOptions: {
             output: {
                 manualChunks: {
